@@ -1,0 +1,5 @@
+br\edu\ifal\pweb02\HelloController.class
+br\edu\ifal\pweb02\Pweb02Application.class
+br\edu\ifal\pweb02\UsuarioController.class
+br\edu\ifal\pweb02\Usuario.class
+br\edu\ifal\pweb02\UsuarioRepository.class
